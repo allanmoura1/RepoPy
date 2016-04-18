@@ -1,0 +1,17 @@
+Pontos a serem discutidos:
+
+- Adição do novo escopo de estudo.
+- O porquê do uso de 2 algoritmos de aprendizagem.
+- O porquê do uso desses algoritmos.
+
+
+
+
+Perguntas futuras:
+
+- Até que ponto essa solução pode ser escalável.
+- Qual a quantidade maxima de classes suportadas sem a perca de precisão
+
+Trabalhos futuros:
+
+- Sugerir soluções para novos chamados baseado na analise dos chamados anteriores

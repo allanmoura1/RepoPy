@@ -1,0 +1,10 @@
+=================================================== Modelagem do problema ================================================================================
+
+- Foram inicialmente extraidos 2304 chamados da base de dados do OCOMON, utilizado pelo Nucleo de Tecnologia da Informação da Universidade Federal do Piauí, no periodo de Outubro de 2011 a Novembro de 2014.
+
+- Desses 2304 chamados, foram extraidos 1096 deles, tendo em vista que nesse montante inicial, haviam chamados com dados desnecessários na descrição do problema, podendo assim causar uma geração de resultados com ruido, prejudicial ao estudo.
+
+- Para chegarmos ao valor de 1096 chamados, foi utilizada a métrica de limitar o tamanho dos chamados em até 180 caracteres, pois através de verificação manual, foi observado que chamados com um numero de caracteres acima de 180, possuiam informações desnecessárias, como informações sobre o setor, telefone para contato, entre outros dados pessoais. Sendo assim, não interessantes para os resultados a serem obtidos.
+
+
+
