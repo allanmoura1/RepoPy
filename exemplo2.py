@@ -17,8 +17,5 @@ for w in words:
 
 #print (sentencas_filtradas)
 
-print (stop_words)
+print (sentencas_filtradas)
 
-Este e um DeLorean cor prata com consumo de 88 MPG.
-
-Este e um DeLorean cor prata com consumo de 88 MPG.
